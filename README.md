@@ -4,7 +4,7 @@ iOS-Quizz-Swift
 Quizz is simple application developed using Swift (Swift, Storyboard)
 
 ###### Keywords
-iOS, iPhone, iPod, iPad, UIButton, UISlider.
+Localisation, CoreLocation, CLLocationManager,CLLocationManagerDelegate, CLLocation, CLHeadings, MKMapKit, MKMapView, MKMapViewDelegate, MKAnnotation, CLLocationManager, CLLocationManagerDelegate, MKMapCamera, UIImagePickerController, UIImagePickerControllerDelegate, ABPeoplePickerNavigationController, ABPersonViewController, ABNewPersonViewController, ABUnknownPersonViewController, ABPeoplePickerNavigationControllerDelegate, ABPersonViewControllerDelegate, ABNewPersonViewControllerDelegate, ABUnknownPersonViewControllerDelegate, ABRecord, ABPerson, UIPopoverController, UIPopoverControllerDelegate.
 
 ###### Screenshots
 ![alt text](https://github.com/Kingsousse/iOS-Quizz-Swift/blob/master/capt1.png "screen 1")
